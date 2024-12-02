@@ -1,0 +1,18 @@
+.row {
+    margin: 0;
+}
+
+.card-body {
+    justify-items: center;
+}
+
+.card img {
+    display: block;
+    max-width: 100%;
+    height: 120px;
+    object-fit: contain;
+}
+
+.card a {
+    justify-content: center;
+}
